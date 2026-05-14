@@ -6,6 +6,9 @@ Interactive Tableau dashboard built using the Sample Superstore dataset to analy
 
 ---## 📂 Dataset used 
 <a href="https://github.com/Khushi-Tipare/Tableau-Superstore-Dashboard/blob/main/sample_-_superstore.xlsx">Dataset</a>
+
+##  Dashboard Preview
+"
  
 ## Dashboard Features
 - Sales & Profit Analysis
@@ -30,11 +33,6 @@ Interactive Tableau dashboard built using the Sample Superstore dataset to analy
 - West region showed strong overall profitability.
 - Certain sub-categories had high sales but low profit margins.
 - Consumer segment contributed the largest share of sales.
-
----
-
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
 
 ---
 
