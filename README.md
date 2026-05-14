@@ -2,13 +2,21 @@
 # Superstore Sales & Profit Analytics Dashboard
 
 ## 📌 Project Overview
-Interactive Tableau dashboard built using the Sample Superstore dataset to analyze sales, profit, return rate, customer segments, and regional performance. The dashboard provides actionable business insights through dynamic visualizations and KPI metrics.
+This project presents an interactive Tableau dashboard built using the Sample Superstore dataset to analyze sales, profit, and overall business performance. The dashboard provides insights into customer segments, regional trends, product categories, and return rates through dynamic visualizations. It helps identify profitable areas, business challenges, and sales patterns to support data-driven decision-making. The project demonstrates skills in data visualization, dashboard design, and business intelligence analytics.
 
----## 📂 Dataset used 
+---
+## 📂 Dataset used 
 <a href="https://github.com/Khushi-Tipare/Tableau-Superstore-Dashboard/blob/main/sample_-_superstore.xlsx">Dataset</a>
 
+---  
+
+
 ##  Dashboard Preview
-"
+<a href="https://github.com/Khushi-Tipare/Tableau-Superstore-Dashboard/blob/main/Screenshot%202026-05-14%20165805.png">Dashboard</a>
+
+
+ ---
+
  
 ## Dashboard Features
 - Sales & Profit Analysis
