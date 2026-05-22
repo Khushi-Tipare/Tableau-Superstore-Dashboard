@@ -44,7 +44,10 @@ This project presents an interactive Tableau dashboard built using the Sample Su
 - Consumer segment contributed the largest share of sales.
 
 ---
+# Connect With Me
 
+## LinkedIn
+[LinkedIn Profile](https://www.linkedin.com/in/khushitipare24)
 
 ---
 
